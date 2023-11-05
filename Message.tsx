@@ -1,7 +1,7 @@
 //Pascal Casing
 function Message () {
 // JSX : JavaScript XML
-    const name = 'Erso';
+    const name = 'Julia;
 
     if (name)
     return <h1>Hello {name}</h1>;
